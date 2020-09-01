@@ -19,6 +19,9 @@ In order to run this pipeline as a Jupyter Notebook you must have the proper env
 * xgboost (To install: pip install xgboost)
 * lightgbm (To install: pip install lightgbm)
 * optuna (To install: pip install optuna)
+* eLCS (To install: pip install scikit-elcs)
+* XCS (To install: pip install scikit-XCS)
+* ExSTraCS (To install: pip install scikit-ExSTraCS)
 
 Additionally, while currently commented out in the file (modeling_methods.py) if you want the optuna hypterparameter sweep figures to appear within the jupyter notebook (via the command 'fig.show()' ) you will need to run the following installation commands.  This should only be required if you edit the python file to uncomment this line for any or all of the ML modeling algorithms. 
 
