@@ -8,7 +8,7 @@ This respository includes the code (including a Jupyter Notebook) to run the mac
 
 ***
 ## Schematic of ML Analysis Pipeline
-![alttext](https://github.com/UrbsLab/ExSTraCS_ML_Pipeline_Binary_Notebook/blob/master/ML%20pipeline%20schematic3.png?raw=true)
+![alttext](https://github.com/UrbsLab/scikit_ML_Pipeline_Binary_Notebook/blob/master/ML%20pipeline%20schematic3.png?raw=true)
 
 ***
 # Prerequisites for Use
