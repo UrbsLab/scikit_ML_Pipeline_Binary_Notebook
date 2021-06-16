@@ -1,0 +1,8 @@
+skrebate
+xgboost
+lightgbm
+optuna
+scikit-elcs
+scikit-XCS
+scikit-ExSTraCS
+plotly>=4.0.0
